@@ -488,7 +488,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a" /></a><a href="https://ko-fi.com/a"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="a" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a&show_icons=true&locale=en&layout=compact" alt="a" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?Project-Amrit=a&show_icons=true&locale=en&layout=compact" alt="a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="a" /></p>
 
