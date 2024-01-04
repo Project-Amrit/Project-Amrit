@@ -525,7 +525,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <div align="left">
 
-```js
+js
 /**
  * Represents me.
  * @constructor
@@ -542,8 +542,9 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
  * @param {Date} birthday - 14th of December 2000.
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Austinae.
- */
-```
+ *
+
+
 
 </div>
 
