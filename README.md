@@ -525,7 +525,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <div align="left">
 
-js
+  ```js
 /**
  * Represents me.
  * @constructor
@@ -544,7 +544,7 @@ js
  * @returns {Object} Austinae.
  *
 
-
+```
 
 </div>
 
