@@ -493,3 +493,44 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a&" alt="a" /></p>
+
+
+
+
+
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://example.com/your-animated-gif.gif" alt="Your Animated GIF" />
+</p>
+
+# Hi there! 👋
+
+I'm [Your Name], a passionate data scientist with expertise in AWS, Python, and machine learning.
+
+## 🔧 Technologies & Tools
+- AWS (Amazon Web Services)
+- Python
+- Machine Learning
+- Data Analysis
+- and more...
+
+## 📈 GitHub Stats
+<!-- GitHub Stats Card -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+
+## 🚀 Projects
+- [Project 1](link-to-project1): Brief description.
+- [Project 2](link-to-project2): Brief description.
+
+## 📫 Let's Connect
+- [LinkedIn](your-linkedin-profile)
+- [Twitter](your-twitter-profile)
+- [Portfolio](your-portfolio-website)
+
+Feel free to explore my repositories and connect with me!
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitor Badge" />
+</p>
+
